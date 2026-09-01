@@ -7,6 +7,11 @@ this is ~~strike through~~\
 this is ***bold and italic***\
 this is <sub>subscript</sub>\
 this is <sup>superscript</sup>\
+```
+git status
+git add
+git commit
+```
 
 
 
