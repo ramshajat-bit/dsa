@@ -18,9 +18,11 @@ password =
 * John Adams
 *  + Thomas Jefferson
 orderd list
-1.George Washington
-2.John Adams
-3.Thomas Jefferson
+1.George Washington\
+2.John Adams\
+3.Thomas Jefferson\
+
+
 
 
 
